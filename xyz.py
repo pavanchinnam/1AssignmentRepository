@@ -1,1 +1,1 @@
-print("from xyz program")
+print("from xyz program of python")
